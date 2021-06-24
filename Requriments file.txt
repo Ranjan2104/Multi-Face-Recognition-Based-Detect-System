@@ -1,0 +1,21 @@
+Requriment Packages for Run Main.py file so Install first then run script file
+
+1-pip install tk-tools
+
+2-pip install opencv-contrib-python
+
+3-pip install datetime
+
+4-pip install pytest-shutil
+
+5-pip install python-csv
+
+6-pip install numpy
+
+7-pip install pillow 
+
+8-pip install pandas
+
+9-pip install times
+
+Developer - Amresh Ranjan.

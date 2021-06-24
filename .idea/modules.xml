@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FACE RECOGNITION BASED ATTENDANCE MONITORING SYSTEM.iml" filepath="$PROJECT_DIR$/.idea/FACE RECOGNITION BASED ATTENDANCE MONITORING SYSTEM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Plannings/OpenCV Projects/Face-Identification-in-a-video-sequence-master/.idea/Face-Identification-in-a-video-sequence-master.iml" filepath="$PROJECT_DIR$/../../../Plannings/OpenCV Projects/Face-Identification-in-a-video-sequence-master/.idea/Face-Identification-in-a-video-sequence-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Plannings/OpenCV Projects/Facial Recognition System/.idea/Facial Recognition System.iml" filepath="$PROJECT_DIR$/../../../Plannings/OpenCV Projects/Facial Recognition System/.idea/Facial Recognition System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Amresh 2/Opencv main/.idea/Opencv main.iml" filepath="$PROJECT_DIR$/../../../Amresh 2/Opencv main/.idea/Opencv main.iml" />
+    </modules>
+  </component>
+</project>
